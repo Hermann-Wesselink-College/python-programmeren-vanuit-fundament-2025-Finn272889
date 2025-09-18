@@ -1,5 +1,5 @@
 # opdracht 1 tpt en met 5 van paragraaf 2.6
-postcode = "3343 PL"
+postcode = "1432NT"
 print(postcode.lower())
 
 woonplaats = Aalsmeer
